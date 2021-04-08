@@ -6,3 +6,5 @@ var annoCorrente = "21";
 var passwordGen = (nome + cognome + colorePrefe + annoCorrente);
 console.log(passwordGen);
 document.getElementById("password-generated").innerHTML= passwordGen;
+
+/*mando push*/
